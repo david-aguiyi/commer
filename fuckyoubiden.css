@@ -1299,6 +1299,7 @@ img.right-img {
 
 	.center {
 		display: flex;
+		margin-top: 5rem;
 		flex-direction: row-reverse;
 	}
 	.snart {
