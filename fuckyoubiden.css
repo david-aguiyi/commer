@@ -595,6 +595,10 @@ button.buy {
 	margin-top: 3rem;
 	margin-bottom: 2rem;
 }
+.email{
+	margin-inline: 20px;
+	margin-bottom: 2rem;
+}
 
 .email h1 {
 	font-size: 2.5rem;
@@ -726,6 +730,7 @@ footer p {
 	text-align: center;
 	font-family: "Nunito", sans-serif;
 	margin-bottom: 20px;
+	font-weight: 700;
 }
 
 .descript {
