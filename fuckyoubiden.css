@@ -598,6 +598,7 @@ button.buy {
 
 .email h1 {
 	font-size: 3rem;
+	margin-top: 2rem;
 }
 
 .email p {
@@ -655,6 +656,8 @@ button.buy {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	flex-direction: column;
+
 	/* margin-bottom: -7rem; */
 }
 
